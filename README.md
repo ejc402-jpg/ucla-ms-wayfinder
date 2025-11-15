@@ -1,1 +1,2 @@
 # ucla-ms-wayfinder
+my inspiration for this project came about a boelter wayfinder application being advertised on paper flyers around the south campus buildings. as someone who would appreciate the same facilitation of navigation for the mathematical sciences building, I thought it would be a fun project to try and replicate it as no floor plans for the buildings are publicly available, nor is the boelter wayfinder, credits for these sources will be gathered in due time
